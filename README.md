@@ -1,4 +1,4 @@
-<h1 align="left">👋 Gabe | Front-End React Developer🍀</h1>
+<h1 align="left">👋 Gabe | Front-End Developer🍀</h1>
 
 ###
 
