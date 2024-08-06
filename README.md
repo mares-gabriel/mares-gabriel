@@ -12,9 +12,3 @@
 ###
 
 <h2 align="left">You can find me at:</h2>
-
-###
-
-<p align="left">- https://www.linkedin.com/in/mares-gabriel</p>
-
-###
