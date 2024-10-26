@@ -1,8 +1,10 @@
-<h1 align="left">👋 Gabe | Front-End Developer🍀</h1>
+# 'Bout Me
+- Open to new challenges
+- Quick learner and problem solver
+- Passionate about creating responsive, user-friendly web experiences
+- Constantly exploring new technologies like **Next.js** and **Three.JS**
 
-###
-
-
-
-
-<p align="left">Passionate about crafting responsive user interfaces. Constantly learning and improving to create seamless experiences across all screens. Quick learner, problem-solver, team player, and effective communicator. Let's connect and grow together! 🚀✨</p>
+## What I Do
+- **Front-End Development** focused on clean and performant code
+- Building projects that always push my skills 
+- Always open to collaboration, feedback, and learning from others, feel free to contact me! 🚀
