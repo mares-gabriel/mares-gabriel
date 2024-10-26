@@ -7,4 +7,6 @@
 ## What I Do
 - **Front-End Development** focused on clean and performant code
 - Building projects that always push my skills 
-- Always open to collaboration, feedback, and learning from others, feel free to contact me! 🚀
+- Always open to collaboration & feedback
+
+Thanks for stopping by! Feel free to contact me and let's create something awesome together! 🚀
