@@ -1,5 +1,4 @@
 ![Banner Image by )](https://media.licdn.com/dms/image/v2/D4D16AQFQu0bJ8wE9ng/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730135848846?e=1735776000&v=beta&t=W6py8Mefx4_4PhAz0Fev0hI7uCC_tVN8O7WPJek0bWs)
-)
 
 # 'Bout Me
 - Open to new challenges
