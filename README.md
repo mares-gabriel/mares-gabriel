@@ -1,4 +1,5 @@
-![Banner Image, by [https://pixabay.com/users/si_kor-3488201/](https://unsplash.com/@peter_mc_greats)](https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Banner Image, by [https://pixabay.com/users/si_kor-3488201/](https://unsplash.com/@peter_mc_greats)](![image](https://github.com/user-attachments/assets/3db2ef7f-4d38-4591-9a8f-ce1e82ea10b2)
+)
 
 # 'Bout Me
 - Open to new challenges
