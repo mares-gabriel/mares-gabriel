@@ -1,14 +1,5 @@
-![Banner Image by )](https://media.licdn.com/dms/image/v2/D4D16AQFQu0bJ8wE9ng/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730135848846?e=1735776000&v=beta&t=W6py8Mefx4_4PhAz0Fev0hI7uCC_tVN8O7WPJek0bWs)
+About me? Well... I love bringing ideas to life, don't ask me why, I just purely love seeing how things work together to create something beautiful. Whether it’s building seamless UIs with React, Next.js, and Tailwind CSS, optimizing for SEO, or integrating powerful backends with Firebase or Supabase, I love how everything connects and works as a whole. Actually, someone once asked me if I prefer frontend or backend, and, honestly? I can't decide, because I love them both!
 
-# 'Bout Me
-- Open to new challenges
-- Quick learner and problem solver
-- Passionate about creating responsive, user-friendly web experiences
-- Constantly exploring new technologies like **Next.js** and **Three.JS**
+In everything I do, I stick to quality over quantity and constantly push myself to keep learning, even when it feels like I'm always running to keep up 🏃 — from mastering TypeScript and JavaScript to exploring better design patterns, version control with Git, and performance optimization.
 
-## What I Do
-- **Front-End Development** focused on clean and performant code
-- Building projects that always push my skills 
-- Always open to collaboration & feedback
-
-Thanks for stopping by! Feel free to contact me and let's create something awesome together! 🚀
+Also, if I ever get another pet, it might be a mink. Or a duck. Or maybe... a penguin? I haven’t decided yet, but I do know one thing: I’d love to take care of all of them! 🦦🦆🐧
